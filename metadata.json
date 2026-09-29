@@ -1,0 +1,8 @@
+{
+  "name": "system-check",
+  "description": "An interactive diagnostic evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
